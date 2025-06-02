@@ -9,6 +9,8 @@ first terminal: `cd server && sudo java -jar server.jar`
 
 second terminal: `cd bungee && sudo java -jar bungee.jar`
 
+IMPORTANT NOTE! [THIS IS FOR THE FIRST TERMINAL.] You need to agree to the eula in order for it to work. In your codespaces, go to the left sidebar and see the symbol that looks like two circles on top and one branch on the bottom, click on it, pres the `+` on the `eula.txt` and write a commit message and click "commit". Rerun the server using `sudo java -jar server.jar`.
+
 Now go to the ports area and forward (and make public) ports 25565 and 8081
 
 And then, ⚠ MOST IMPORTANT! ⚠
